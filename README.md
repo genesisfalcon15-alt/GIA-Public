@@ -16,7 +16,6 @@
   <b>Asistente de IA para montar, instalar, reparar y restaurar productos del hogar.</b>
 </blockquote>
 
----
 
 
 # GIA Guía Inteligente de Instalación
