@@ -214,7 +214,6 @@ Un repo público para el portfolio y la evaluación académica. Un repo privado 
 ## Autora
 
 **Genesis Falcón **
-Graduada de 4Geeks Academy, España.
 
 ---
 
