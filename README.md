@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="gia.png" alt="Logotipo de GIA" width="250" />
+</p>
+
+<h1 align="center">GIA</h1>
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-3.0-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"></a>
+</p>
+
+<blockquote align="center">
+  <b>Asistente de IA para montar, instalar, reparar y restaurar productos del hogar.</b>
+</blockquote>
+
+---
+
 
 # GIA Guía Inteligente de Instalación
 
